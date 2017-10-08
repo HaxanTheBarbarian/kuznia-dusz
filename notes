@@ -1,0 +1,7 @@
+This project is my origin:
+- I can push hehe from local branch.
+
+Monku project will be upstream (name by convention):
+- I can pull from here to ma local branch.
+- I can't push to upstream. 
+- Instead of push I make Pull Request.
